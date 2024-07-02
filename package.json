@@ -3,5 +3,12 @@
     "imagemin": "^9.0.0",
     "imagemin-jpegtran": "^7.0.0",
     "imagemin-mozjpeg": "^10.0.0"
-  }
+  },
+  "type": "module",
+  "name": "building-performant-web-application-idcamp-live-020724",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/raflyfahrezi/building-performant-web-application-idcamp-live-020724.git",
+  "author": "Farhan Rafly Fahrezi Saepulloh <raflyfahr15@gmail.com>",
+  "license": "MIT"
 }
